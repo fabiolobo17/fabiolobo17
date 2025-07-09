@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Olá%2C+me+chamo+Fábio+Lobo+Assumpção;Tenho+48+anos;e+sou+Cientista+de+Dados!;Be+Welcome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Olá%2C+me+chamo+Fabio+Lobo+Assumpção;Tenho+48+anos;e+sou+Cientista+de+Dados!;Be+Welcome!" alt="Typing SVG" />
 </p>
 
 
