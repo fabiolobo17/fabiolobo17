@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
-<h1 align="center">👋 Olá, eu sou o Fábio Lobo Assunção</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+MY+name+is+Fabio+Lobo+Assumpção;I'm+48+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
   🎯 <strong>Ciência de Dados | Power BI | Web Design | Automação</strong>  
