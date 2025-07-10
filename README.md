@@ -49,8 +49,8 @@
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/seu-usuario)  
-📧 fabiolobo@email.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/fabio-lobo-bi/)  
+📧 fabiolobo.ti@gmail.com  
 📍 Maricá, RJ - Brasil
 
 ---
